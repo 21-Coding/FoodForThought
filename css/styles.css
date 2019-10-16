@@ -1,0 +1,40 @@
+body {
+  background: url("../img/back.jpg");
+  background-size: contain;
+
+}
+
+h1 {
+  text-align: center;
+  color: Chartreuse 
+}
+
+.container {
+  display: flex; /* or inline-flex */
+}
+
+#circle {
+      width: 200px;
+      height: 200px;
+      background: black;
+      border-radius: 50%;
+      text-align: center;
+
+
+    }
+
+p {
+  width: 400px;
+  height: 400px;
+  color: black
+
+}
+
+.food1 {
+  width: 400px;
+  height: 400px;
+  background: black;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+}
